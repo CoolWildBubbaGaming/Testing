@@ -1,10 +1,10 @@
-AwesomeBot [![Build Status](https://travis-ci.org/BitQuote/AwesomeBot.svg?branch=master)](https://travis-ci.org/BitQuote/AwesomeBot)
+Anonymous [![Build Status](https://travis-ci.org/BitQuote/AwesomeBot.svg?branch=master)](https://travis-ci.org/BitQuote/AwesomeBot)
 ==========
 
 The best Discord bot!
 ---------------------
 
-*Hello, I'm AwesomeBot. I add tons of cool stuff to any Discord server, providing external content, acting as a mod, and talking to members*
+*Hello, I'm Anonymous. I add tons of cool stuff to any Discord server, providing external content, acting as a mod, and talking to members*
 
 That's right! *The best Discord bot! I add tons of cool stuff to any Discord server, providing external content, acting as a mod, and talking to members*
 
