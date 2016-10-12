@@ -35,9 +35,9 @@ In addition, he has many built-in utility functions:
  - Stats for members, games, and commands
  - Even more than this!
 
-And finally, AwesomeBot can conduct **in-chat polls**, offers a fun **live trivia game**, and provides **karma for Discord**. He is fully configurable via private message or online, and can be controlled independently between servers. New servers can be added with Discord OAuth, and admins are automatically detected. For support on AwesomeBot, please join our [Discord server](http://discord.awesomebot.xyz/). Most of the information can be found on [our wiki](http://wiki.awesomebot.xyz/).
+And finally, Anonymous can conduct **in-chat polls**, offers a fun **live trivia game**, and provides **karma for Discord**. He is fully configurable via private message or online, and can be controlled independently between servers. New servers can be added with Discord OAuth, and admins are automatically detected. For support on AwesomeBot, please join our [Discord server](http://discord.awesomebot.xyz/). Most of the information can be found on [our wiki](http://wiki.awesomebot.xyz/).
 
-[Add AwesomeBot to your server now!](http://add.awesomebot.xyz/)
+[Add anonymous to your server now!](http://add.awesomebot.xyz/)
 
 [Check out the release history »](http://awesome.awesomebot.xyz/)
 
